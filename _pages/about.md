@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://liu.se/">Linköping University</a>, <a href="https://liu.se/en/organisation/liu/ida">Department of Computer and Information Science (IDA)</a>, <a href="https://liu.se/en/organisation/liu/ida/stima">Divison of Statistics and Machine Learning (STIMA)</a>.
 
 profile:
   align: right
@@ -27,8 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Hello there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello, I am a happy postdoc at [Linköping University](https://liu.se/) (Linköping, Sweden). My main area of interest encompasses unsupervised learning, specifically discriminative clustering, and its application with or without constraints for instance in health or material science.
+
+I am currently focusing on the prediction of synthesisability or dynamic stability of MXenes materials from MAX phases using ML. This type of problen is tightly linked to unsupervised methods, as it covers both PU learning (binary classification where class observation is missing) and/or semi-supervised clustering (like semi-supervised learning, but with veerrrryyy little annotated data). I work closely with [Fredrik Lindsten](https://lindsten.netlify.app/). Do not hesitate to contact me for whatever research-related topic :-)
+
+I am also responsible of the [ML seminar series](https://stima.gitlab-pages.liu.se/ml-seminars/) at the department of computer science (IDA) of the Linköping University.
+
+
+# Background
+
+I graduated from a Ph.D. in computer science at the [Université Côte d'Azur](https://univ-cotedazur.eu/) (Nice, France) and a cotutelle Ph.D. in molecular medicine at the [Université Laval](https://www.ulaval.ca/en) (Quebec, Canada). The topic was the qualification of the aortic stenosis, a severe cardiac disease, throughout discriminative clustering methods. I had the pleasure of being supervised by [Frédéric Precioso](https://webusers.i3s.unice.fr/~precioso/), [Pierre-Alexandre Mattei](https://pamattei.github.io/) in France and [Arnaud Droit](https://www.crchudequebec.ulaval.ca/en/research/researchers/arnaud-droit/) in Canada. If you need a quick insight on my work, you can check the [GemClus](https://gemini-clustering.github.io/main/auto_examples/index.html) package that summarises most of my PhD algorithms. Prior to academia, I graduated within computer science with a double degree: an engineering one at the [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr/en/) and at a Master's at [KTH Royal Institute of Technology](https://www.kth.se/en).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
++ <a href="mailto:louis.ohl@liu.se"><i class="fa-solid fa-paper-plane"></i></a>
++ <a href="https://fr.linkedin.com/in/louis-ohl-526809153"><i class="fa-brands fa-linkedin-in"></i></a>
++ <a href="https://github.com/oshillou"><i class="fa-brands fa-github"></i></a>
++ <a href="https://scholar.google.com/citations?user=s2uxUGwAAAAJ&hl=fr"><i class="ai ai-google-scholar-square"></i></a>
++ <a href="https://bsky.app/profile/louisohl.bsky.social"><i class="fa-brands fa-bluesky"></i></a>
++ <a href="https://orcid.org/0000-0002-3467-5167"><i class="ai ai-orcid-square"></i></a>
