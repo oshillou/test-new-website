@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: # >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -39,12 +39,3 @@ I am also responsible of the [ML seminar series](https://stima.gitlab-pages.liu.
 # Background
 
 I graduated from a Ph.D. in computer science at the [Université Côte d'Azur](https://univ-cotedazur.eu/) (Nice, France) and a cotutelle Ph.D. in molecular medicine at the [Université Laval](https://www.ulaval.ca/en) (Quebec, Canada). The topic was the qualification of the aortic stenosis, a severe cardiac disease, throughout discriminative clustering methods. I had the pleasure of being supervised by [Frédéric Precioso](https://webusers.i3s.unice.fr/~precioso/), [Pierre-Alexandre Mattei](https://pamattei.github.io/) in France and [Arnaud Droit](https://www.crchudequebec.ulaval.ca/en/research/researchers/arnaud-droit/) in Canada. If you need a quick insight on my work, you can check the [GemClus](https://gemini-clustering.github.io/main/auto_examples/index.html) package that summarises most of my PhD algorithms. Prior to academia, I graduated within computer science with a double degree: an engineering one at the [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr/en/) and at a Master's at [KTH Royal Institute of Technology](https://www.kth.se/en).
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-+ <a href="mailto:louis.ohl@liu.se"><i class="fa-solid fa-paper-plane"></i></a>
-+ <a href="https://fr.linkedin.com/in/louis-ohl-526809153"><i class="fa-brands fa-linkedin-in"></i></a>
-+ <a href="https://github.com/oshillou"><i class="fa-brands fa-github"></i></a>
-+ <a href="https://scholar.google.com/citations?user=s2uxUGwAAAAJ&hl=fr"><i class="ai ai-google-scholar-square"></i></a>
-+ <a href="https://bsky.app/profile/louisohl.bsky.social"><i class="fa-brands fa-bluesky"></i></a>
-+ <a href="https://orcid.org/0000-0002-3467-5167"><i class="ai ai-orcid-square"></i></a>
