@@ -1,27 +1,27 @@
-"Precioso":
+"precioso":
   - firstname: ["Frédéric", "F."]
     url: https://scholar.google.fr/citations?user=-0cKTucAAAAJ
 
-"Mattei":
+"mattei":
   - firstname: ["Pierre-Alexandre", "P.A.", "P. A.", "P-A.", "PA."]
     url: https://pamattei.github.io/
 
-"Droit":
+"droit":
   - firstname: ["Arnaud", "A."]
     url: https://www.crchudequebec.ulaval.ca/en/researcher/arnaud-droit/
 
-"Leclercq":
+"leclercq":
   - firstname: ["Mickael", "Mickaël", "M."]
     url: https://scholar.google.com/citations?user=V5kooAQAAAAJ
 
-"Lindsten":
+"lindsten":
   - firstname: ["Fredrik", "F."]
     url: https://lindsten.netlify.app/
 
-"Fleury":
+"fleury":
   - firstname: ["Marie-Ange", "M.A.", "MA.", "M-A."]
     url: https://www.researchgate.net/profile/Marie-Ange-Fleury
 
-"Bouveyron":
+"bouveyron":
   - firstname: ["Charles", "C."]
     url: https://math.univ-cotedazur.fr/~cbouveyr/

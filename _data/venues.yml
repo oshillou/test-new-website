@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NeurIPS":
+  url: https://neurips.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"UAI":
+  url: https://www.auai.org/
+  color: "#00369f"
 
-"Vision":
+"Stat. and Comp.":
   color: "#009f36"
+
+"EHJ Dig. Hea.":
+  color: "#009f36"
+
+"ACM Comp. Sur.":
+  color: "#009f36"
+
+"JACC Adv.":
+  color: "#009f36"
+
+
+"preprint":
+  url: https://arxiv.org
