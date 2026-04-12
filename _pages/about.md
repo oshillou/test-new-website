@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://liu.se/">Linköping University</a>, <a href="https://liu.se/en/organisation/liu/ida">IDA</a>, <a href="https://liu.se/en/organisation/liu/ida/stima">STIMA</a>.
 

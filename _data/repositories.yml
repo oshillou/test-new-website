@@ -1,13 +1,8 @@
-github_users:
-  - oshillou
-  - gemini-clustering
+# github_users:
+#   - oshillou
+#  - gemini-clustering
 
-repo_description_lines_max: 2
+# repo_description_lines_max: 2
 
 github_repos:
   - gemini-clustering/GemClus
-  - oshillou/Discotec
-  - oshillou/PROGRESSA-Clustering
-  - oshillou/Kauri
-  - oshillou/SparseGEMINI
-  - oshillou/GEMINI
