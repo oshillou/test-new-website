@@ -52,10 +52,15 @@ calendar: true
 
 For instance in summer schools.
 
++ *Natural Language Processing / Consuming* with C. D'Cruz, Deep learning summer school (Université Côte d'Azur, 2024)
+
++ *Normalising flows* with D. Liang & P.A. Mattei, Deep learning summer school (Université Côte d'Azur, 2021)
+
+
 
 # Vulgarisation
 
-+ **Humaniteq** (2024). A Canadian podcast striving to link humanities, science and new technologies (french only). I participated to a podcast discussing precision medicine for aortic stenosis with AI. [Spotify](href="https://open.spotify.com/episode/76J57bYpaCaBfy8NtmaPBr?si=b651458a319e475e")
++ **Humaniteq** (2024). A Canadian podcast striving to link humanities, science and new technologies (french only). I participated to a podcast discussing precision medicine for aortic stenosis with AI. [Spotify](https://open.spotify.com/episode/76J57bYpaCaBfy8NtmaPBr?si=b651458a319e475e)
 + **Ma thèse en 180 secondes** (2024). A French-speaking contest where I had to summarise my PhD in 3 minutes. [Youtube](https://www.youtube.com/live/tbqJM9UqwNU?si=ScCza0EwHrcAyYmB&t=4323)
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->

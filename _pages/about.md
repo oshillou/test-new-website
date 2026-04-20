@@ -39,6 +39,6 @@ I graduated from a Ph.D. in computer science at the [Université Côte d'Azur](h
 
 ---
 
-Below is an attempt of visualisation of my non-Euclidean research interests.
+Some keywords:
 
-![Research interest. Last update: 20/04/2026](assets/img/my_research.png)
+Discriminative clustering / Unsupervised learning / Decision trees / Ensemble methods / AI for health  / AI for material science
