@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Because learning is a strong part of life. I list here courses, tutorials and vulgarisations: anything that contributes to scientific transmission.
 nav: true
 nav_order: 6
