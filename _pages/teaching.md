@@ -124,7 +124,7 @@ calendar: false
 *Ongoing*
 <hr>
 
-- **Matilda Helander & Ksenia Natascha Kart**, degree project in biomedical engineereing, _Machine‑Learning Estimation of Alcohol Level from Driver Signals_
+- **Matilda Helander and Ksenia Natascha Kart**, degree project in biomedical engineereing, _Machine‑Learning Estimation of Alcohol Level from Driver Signals_
 
 **Defended**
 <hr>
