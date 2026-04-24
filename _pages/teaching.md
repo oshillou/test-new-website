@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: "Because learning is a strong part of life. I list here courses, tutorials and vulgarisations: anything that contributes to scientific transmission."
 nav: true
 nav_order: 6
@@ -32,10 +32,19 @@ calendar: false
 | 2021-2022 | PhP and dynamic website modelling              | 18    | ~15      | Entry  | Teacher assistant |
 |           | Introduction to Java and OOP programming       | 46    | ~20      | Entry  | Teacher assistant |
 
+# Tutorials
+
+For instance in summer schools.
+
+- _Natural Language Processing / Consuming_ with C. D'Cruz, Deep learning summer school (Université Côte d'Azur, 2024)
+- _Normalising flows_ with D. Liang & P.A. Mattei, Deep learning summer school (Université Côte d'Azur, 2021)
+
 
 # Alumni
 
 ## Master theses
+
+Interested for a thesis? Contact me!
 
 *Ongoing*
 <hr>
@@ -48,14 +57,6 @@ calendar: false
 - **Sangeeth Sankunny Menon**, master thesis in statistics, _Development of circulating protein-metabolite signaling network_
 - **Jiajun Chen**, degree project in computer science, _Design, implement and evaluate data product in Snowflake_
 - **Lepeng Zhang**, master thesis in statistics, _Improving the choices of distances for GEMINI_
-
-
-# Tutorials
-
-For instance in summer schools.
-
-- _Natural Language Processing / Consuming_ with C. D'Cruz, Deep learning summer school (Université Côte d'Azur, 2024)
-- _Normalising flows_ with D. Liang & P.A. Mattei, Deep learning summer school (Université Côte d'Azur, 2021)
 
 
 
