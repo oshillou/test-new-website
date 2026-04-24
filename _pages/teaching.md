@@ -147,8 +147,3 @@ For instance in summer schools.
 
 - **Humaniteq** (2024). A Canadian podcast striving to link humanities, science and new technologies (french only). I participated to a podcast discussing precision medicine for aortic stenosis with AI. <a href="https://open.spotify.com/episode/76J57bYpaCaBfy8NtmaPBr?si=b651458a319e475e">Spotify</a>
 - **Ma thèse en 180 secondes** (2024). A French-speaking contest where I had to summarise my PhD in 3 minutes. <a href="https://www.youtube.com/live/tbqJM9UqwNU?si=ScCza0EwHrcAyYmB&t=4323">Youtube</a>.
-
-<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
-
-<!-- If I ever want to include complete course description, uncomment the line below and edit files in _teachings/ -->
-<!-- {% include courses.liquid %} -->
