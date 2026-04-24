@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/test-new-website/repositories/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Because learning is a strong part of life. I list here courses, tutorials and vulgarisations: anything that contributes to scientific transmission.",
           section: "Navigation",
           handler: () => {
