@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Because learning is a strong part of life. I list here courses, tutorials and vulgarisations: anything that contributes to scientific transmission.
+description: "Because learning is a strong part of life. I list here courses, tutorials and vulgarisations: anything that contributes to scientific transmission."
 nav: true
 nav_order: 6
 calendar: false
@@ -13,109 +13,25 @@ calendar: false
 
 ## Linköping University
 
-<table>
-    <tr>
-        <td>Year</td>
-        <td>Subject</td>
-        <td>Hours</td>
-        <td>Students</td>
-        <td>Level</td>
-        <td>Role</td>
-    </tr>
-    <tr>
-        <td>2025-2026</td>
-        <td>Advanced Academic Studies 732A60</td>
-        <td>69</td>
-        <td>28</td>
-        <td>Master</td>
-        <td>Course responsible</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Machine Learning 732A99/TDDE01</td>
-        <td>40</td>
-        <td>~100</td>
-        <td>Master</td>
-        <td>Teacher assistant</td>
-    </tr>
-    <tr>
-        <td>2024-2025</td>
-        <td>Machine Learning 732A99/TDDE01</td>
-        <td>40</td>
-        <td>~100</td>
-        <td>Master</td>
-        <td>Teacher assistant</td>
-    </tr>
-</table>
+| Year      | Subject                          | Hours | Students | Level  | Role               |
+|-----------|----------------------------------|-------|----------|--------|--------------------|
+| 2025-2026 | Advanced Academic Studies 732A60 | 69    | 28       | Master | Course responsible |
+|           | Machine Learning 732A99/TDDE01   | 40    | ~100     | Master | Teacher assistant  |
+| 2024-2025 | Machine Learning 732A99/TDDE01   | 40    | ~100     | Master | Teacher assistant  |
+
 
 ## Université Côte d'Azur
 
-<table>
-    <tr>
-        <td>Year</td>
-        <td>Subject</td>
-        <td>Hours</td>
-        <td>Students</td>
-        <td>Level</td>
-        <td>Role</td>
-    </tr>
-    <tr>
-        <td>2023-2024</td>
-        <td>Deep learning for data science</td>
-        <td>24</td>
-        <td>~5</td>
-        <td>Master</td>
-        <td>Lecturer</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Research project evaluations</td>
-        <td>15</td>
-        <td>5</td>
-        <td>Master</td>
-        <td>Examiner</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Advanced programming with the Sparks framework</td>
-        <td>32</td>
-        <td>~15</td>
-        <td>Entry</td>
-        <td>Teacher assistant</td>
-    </tr>
-    <tr>
-        <td>2022-2023</td>
-        <td>Computer vision and data science</td>
-        <td>24</td>
-        <td>~15</td>
-        <td>Master</td>
-        <td>Teacher assistant</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>PhP and dynamic website modelling</td>
-        <td>18</td>
-        <td>~10</td>
-        <td>Entry</td>
-        <td>Teacher assistant</td>
-    </tr>
-    <tr>
-        <td>2021-2022</td>
-        <td>PhP and dynamic website modelling</td>
-        <td>18</td>
-        <td>~15</td>
-        <td>Entry</td>
-        <td>Teacher assistant</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Introduction to Java and OOP programming</td>
-        <td>46</td>
-        <td>~20</td>
-        <td>Entry</td>
-        <td>Teacher assistant</td>
-    </tr>
-</table>
+| Year      | Subject                                        | Hours | Students | Level  | Role              |
+|-----------|------------------------------------------------|-------|----------|--------|-------------------|
+| 2023-2024 | Deep learning for data science                 | 24    | ~5       | Master | Lecturer          |
+|           | Research project evaluations                   | 15    | 5        | Master | Examiner          |
+|           | Advanced programming with the Sparks framework | 32    | ~15      | Entry  | Teacher assistant |
+| 2022-2023 | Computer vision and data science               | 24    | ~15      | Master | Teacher assistant |
+|           | PhP and dynamic website modelling              | 18    | ~10      | Entry  | Teacher assistant |
+| 2021-2022 | PhP and dynamic website modelling              | 18    | ~15      | Entry  | Teacher assistant |
+|           | Introduction to Java and OOP programming       | 46    | ~20      | Entry  | Teacher assistant |
+
 
 # Alumni
 
