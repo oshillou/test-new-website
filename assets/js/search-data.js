@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/test-new-website/repositories/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Because learning is a strong part of life. I list here courses, tutorials and vulgarisations: anything that contributes to scientific transmission.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/test-new-website/teaching/";
+          },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
